@@ -3,3 +3,4 @@ def open_file():
         file.read()
     return file
 
+print("hello")
